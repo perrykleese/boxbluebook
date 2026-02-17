@@ -1,0 +1,1673 @@
+{
+  "brands": [
+    {
+      "id": "romeo-y-julieta",
+      "name": "Romeo y Julieta",
+      "slug": "romeo-y-julieta",
+      "country": null,
+      "cigar_count": 92,
+      "lines": [
+        "romeo-y-julieta-1875",
+        "romeo-y-julieta-1875-tres-box-15",
+        "romeo-y-julieta-1875-dos-box-15",
+        "romeo-y-julieta-1875-bully-box-15",
+        "romeo-y-julieta-churchill-box-20",
+        "romeo-y-julieta-toro-box-20",
+        "romeo-y-julieta-piramides-box-20",
+        "romeo-y-julieta-magnum-box-20",
+        "romeo-y-julieta-robusto-box-20",
+        "romeo-y-julieta-between-the-acts-freshloc-box-40",
+        "romeo-y-julieta-lovers-sampler",
+        "romeo-y-julieta-mild-bule-tin-100",
+        "romeo-y-julieta-original-tin-100",
+        "romeo-y-julieta-aroma-tin-100",
+        "romeo-y-julieta-petite-bully-box-30",
+        "romeo-y-julieta-cedro-deluxe-2-box-25",
+        "romeo-y-julieta-deluxe-2-tube-box-10",
+        "romeo-y-julieta-romeos-court-box-10",
+        "romeo-y-julieta-churchill-box-25",
+        "romeo-y-julieta-exhibicion-1-box-20",
+        "romeo-y-julieta-belicoso-box-25",
+        "romeo-y-julieta-exhibicion-3-box-25",
+        "romeo-y-julieta-cedro-deluxe-1-box-25",
+        "romeo-y-julieta-bully-box-25",
+        "romeo-y-julieta-rothchilde-en-tubo-box-10",
+        "romeo-y-julieta-clemenceau-en-tubo-box-10",
+        "romeo-y-julieta-4-sampler-pk-32",
+        "romeo-y-julieta-exhibition-3-6-cigar-sampler-box-6",
+        "romeo-y-julieta-bundle-box-20",
+        "romeo-y-julieta-exhibicion-3-box-10",
+        "romeo-y-julieta-bully-box-10",
+        "romeo-y-julieta-julietas-pk-60",
+        "romeo-y-julieta-churchill-box-10",
+        "romeo-y-julieta-deluxe-1-tube-box-10",
+        "romeo-y-julieta-churchill-en-tubo-box-10",
+        "romeo-y-julieta-numbero-dos-box-10",
+        "romeo-y-julieta-exhibicion-3-pk-5",
+        "romeo-y-julieta-romeos-tin-30",
+        "romeo-y-julieta-toro-box-25",
+        "romeo-y-julieta-churchill-box-27",
+        "romeo-y-julieta-no-4-box-27",
+        "romeo-y-julieta-toro-box-27",
+        "romeo-y-julieta-robusto-box-27",
+        "romeo-y-julieta-robusto-box-28",
+        "romeo-y-julieta-no-2-box-28",
+        "romeo-y-julieta-toro-box-28",
+        "romeo-y-julieta-churchill-box-28",
+        "romeo-y-julieta-tumbler-sampler-box-6",
+        "romeo-y-julieta-amulet-box-11",
+        "romeo-y-julieta-rothchilde-box-20",
+        "romeo-y-julieta-corona-box-25",
+        "romeo-y-julieta-robusto-box-25",
+        "romeo-y-julieta-its-a-girl-julieta",
+        "romeo-y-julieta-toro-vertigo-lighter-sampler-unit-5",
+        "romeo-y-julieta-veronas-court-box-20",
+        "romeo-y-julieta-no-2-bp-box-25",
+        "romeo-y-julieta-lonsdale-box-25",
+        "romeo-y-julieta-twisted",
+        "romeo-y-julieta-robusto-box-10",
+        "romeo-y-julieta-toro-box-10",
+        "romeo-y-julieta-porto-real-box-20",
+        "romeo-y-julieta-its-a-boy-romeo",
+        "romeo-y-julieta-minutos-petites-tin-30",
+        "romeo-y-julieta-gran",
+        "romeo-y-julieta-no-2-box-25",
+        "romeo-y-julieta-love-story-box-25",
+        "romeo-y-julieta-wine-key-sampler-box-5",
+        "romeo-y-julieta-amores-box-30",
+        "romeo-y-julieta-corona-en-tubo-box-21",
+        "romeo-y-julieta-titan-box-21",
+        "romeo-y-julieta-corona-box-27",
+        "romeo-y-julieta-rothchilde-box-21",
+        "romeo-y-julieta-belicoso-bp-box-27",
+        "romeo-y-julieta-fresh-pack-sampler-pk-32",
+        "romeo-y-julieta-vintage-ii-box-25",
+        "romeo-y-julieta-vintage-iii-box-25",
+        "romeo-y-julieta-vintage-iv-box-25",
+        "romeo-y-julieta-vintage-vii-box-25",
+        "romeo-y-julieta-corona-tube-box-12",
+        "romeo-y-julieta-vintage-v-box-25",
+        "romeo-y-julieta-vintage-vi-box-20",
+        "romeo-y-julieta-toro-tube-box-12",
+        "romeo-y-julieta-vintage-i-box-25"
+      ]
+    },
+    {
+      "id": "aging-room-quattro-nicaragua",
+      "name": "Aging Room Quattro Nicaragua",
+      "slug": "aging-room-quattro-nicaragua",
+      "country": null,
+      "cigar_count": 8,
+      "lines": [
+        "aging-room-quattro-nicaragua-vibrato",
+        "aging-room-quattro-nicaragua-vibrato-box-20",
+        "aging-room-quattro-nicaragua-maestro",
+        "aging-room-quattro-nicaragua-grande-box-20",
+        "aging-room-quattro-nicaragua-impromptu-box-10",
+        "aging-room-quattro-nicaragua-espressivo-box-20",
+        "aging-room-quattro-nicaragua-concerto-box-20",
+        "aging-room-quattro-nicaragua-maestro-box-10"
+      ]
+    },
+    {
+      "id": "aging-room-quattro-nicaragua-sonata",
+      "name": "Aging Room Quattro Nicaragua Sonata",
+      "slug": "aging-room-quattro-nicaragua-sonata",
+      "country": null,
+      "cigar_count": 8,
+      "lines": [
+        "aging-room-quattro-nicaragua-sonata-espressivo-box-20",
+        "aging-room-quattro-nicaragua-sonata-gift-set-vibrato-box-5",
+        "aging-room-quattro-nicaragua-sonata-maestro-box-20",
+        "aging-room-quattro-nicaragua-sonata-vibrato-box-20",
+        "aging-room-quattro-nicaragua-sonata-maestro-box-10",
+        "aging-room-quattro-nicaragua-sonata-concerto-box-20",
+        "aging-room-quattro-nicaragua-sonata-grande-box-20",
+        "aging-room-quattro-nicaragua-sonata-figuardo-box-10"
+      ]
+    },
+    {
+      "id": "assortment",
+      "name": "Assortment",
+      "slug": "assortment",
+      "country": null,
+      "cigar_count": 2,
+      "lines": [
+        "assortment-iconic-brand-sampler-box-9",
+        "assortment-taste-of-nicaragua-sampler"
+      ]
+    },
+    {
+      "id": "casa-de-garcia-connecticut",
+      "name": "Casa De Garcia - Connecticut",
+      "slug": "casa-de-garcia-connecticut",
+      "country": null,
+      "cigar_count": 6,
+      "lines": [
+        "casa-de-garcia-connecticut-robusto-conn-bdl-20",
+        "casa-de-garcia-connecticut-magnum-connecticut-bdl-20",
+        "casa-de-garcia-connecticut-toro-bdl-20",
+        "casa-de-garcia-connecticut-churchill-conn-bdl-20",
+        "casa-de-garcia-connecticut-churchill-conn-pk-40",
+        "casa-de-garcia-connecticut-belicoso-conn-bdl-20"
+      ]
+    },
+    {
+      "id": "casa-de-garcia-maduro",
+      "name": "Casa De Garcia - Maduro",
+      "slug": "casa-de-garcia-maduro",
+      "country": null,
+      "cigar_count": 5,
+      "lines": [
+        "casa-de-garcia-maduro-robusto-mad-bdl-20",
+        "casa-de-garcia-maduro-toro-bdl-20",
+        "casa-de-garcia-maduro-magnum-bdl-20",
+        "casa-de-garcia-maduro-belicoso-mad-bdl-20",
+        "casa-de-garcia-maduro-churchill-mad-bdl-20"
+      ]
+    },
+    {
+      "id": "casa-de-garcia-centenario-gold-label",
+      "name": "Casa De Garcia Centenario Gold Label",
+      "slug": "casa-de-garcia-centenario-gold-label",
+      "country": null,
+      "cigar_count": 4,
+      "lines": [
+        "casa-de-garcia-centenario-gold-label-magnium-box-25",
+        "casa-de-garcia-centenario-gold-label-robusto-box-25",
+        "casa-de-garcia-centenario-gold-label-belicoso-box-25",
+        "casa-de-garcia-centenario-gold-label-toro-box-25"
+      ]
+    },
+    {
+      "id": "casa-de-garcia-centenario-red-label",
+      "name": "Casa De Garcia Centenario Red Label",
+      "slug": "casa-de-garcia-centenario-red-label",
+      "country": null,
+      "cigar_count": 4,
+      "lines": [
+        "casa-de-garcia-centenario-red-label-toro-box-25",
+        "casa-de-garcia-centenario-red-label-robusto-box-25",
+        "casa-de-garcia-centenario-red-label-magnum-box-25",
+        "casa-de-garcia-centenario-red-label-belicoso-box-25"
+      ]
+    },
+    {
+      "id": "don-diego",
+      "name": "Don Diego",
+      "slug": "don-diego",
+      "country": null,
+      "cigar_count": 8,
+      "lines": [
+        "don-diego-lonsdale-box-25",
+        "don-diego-babies-sg-box-60",
+        "don-diego-preludes-tin-30",
+        "don-diego-robusto-box-25",
+        "don-diego-corona-major-box-20",
+        "don-diego-grande-box-25",
+        "don-diego-churchill-box-25",
+        "don-diego-corona-box-25"
+      ]
+    },
+    {
+      "id": "don-mateo",
+      "name": "Don Mateo",
+      "slug": "don-mateo",
+      "country": null,
+      "cigar_count": 7,
+      "lines": [
+        "don-mateo-7-bdl-20",
+        "don-mateo-8-bdl-20",
+        "don-mateo-11-bdl-20",
+        "don-mateo-9-bdl-20",
+        "don-mateo-6-bdl-20",
+        "don-mateo-10-bdl-20",
+        "don-mateo-5-bdl-20"
+      ]
+    },
+    {
+      "id": "don-mateo-maduro",
+      "name": "Don Mateo Maduro",
+      "slug": "don-mateo-maduro",
+      "country": null,
+      "cigar_count": 1,
+      "lines": [
+        "don-mateo-maduro-11-bdl-20"
+      ]
+    },
+    {
+      "id": "gispert",
+      "name": "Gispert",
+      "slug": "gispert",
+      "country": null,
+      "cigar_count": 5,
+      "lines": [
+        "gispert-robusto-box-25",
+        "gispert-churchill-box-25",
+        "gispert-toro-box-25",
+        "gispert-belicoso-box-25",
+        "gispert-corona-box-25"
+      ]
+    },
+    {
+      "id": "h-upmann-180th-anniversary",
+      "name": "H Upmann 180Th Anniversary",
+      "slug": "h-upmann-180th-anniversary",
+      "country": null,
+      "cigar_count": 1,
+      "lines": [
+        "h-upmann-180th-anniversary-churchill-box-10"
+      ]
+    },
+    {
+      "id": "h-upmann-1844",
+      "name": "H Upmann 1844",
+      "slug": "h-upmann-1844",
+      "country": null,
+      "cigar_count": 1,
+      "lines": [
+        "h-upmann-1844-fresh-pack-sampler-pk-32"
+      ]
+    },
+    {
+      "id": "h-upmann-1844-anejo",
+      "name": "H Upmann 1844 Anejo",
+      "slug": "h-upmann-1844-anejo",
+      "country": null,
+      "cigar_count": 3,
+      "lines": [
+        "h-upmann-1844-anejo-magnum-box-25",
+        "h-upmann-1844-anejo-robusto-box-25",
+        "h-upmann-1844-anejo-toro-box-25"
+      ]
+    },
+    {
+      "id": "h-upmann-1844-classic",
+      "name": "H Upmann 1844 Classic",
+      "slug": "h-upmann-1844-classic",
+      "country": null,
+      "cigar_count": 4,
+      "lines": [
+        "h-upmann-1844-classic-robusto-box-25",
+        "h-upmann-1844-classic-churchill-box-25",
+        "h-upmann-1844-classic-corona-box-25",
+        "h-upmann-1844-classic-toro-box-25"
+      ]
+    },
+    {
+      "id": "h-upmann-1844-reserve",
+      "name": "H Upmann 1844 Reserve",
+      "slug": "h-upmann-1844-reserve",
+      "country": null,
+      "cigar_count": 8,
+      "lines": [
+        "h-upmann-1844-reserve-robusto-box-25",
+        "h-upmann-1844-reserve-toro-box-25",
+        "h-upmann-1844-reserve-belicoso-box-25",
+        "h-upmann-1844-reserve-corona-major-box-21",
+        "h-upmann-1844-reserve-demitasse-box-60",
+        "h-upmann-1844-reserve-churchill-box-25",
+        "h-upmann-1844-reserve-apertifs-tin-30",
+        "h-upmann-1844-reserve-corona-box-25"
+      ]
+    },
+    {
+      "id": "h-upmann-1844-special-edition-barbier",
+      "name": "H Upmann 1844 Special Edition Barbier",
+      "slug": "h-upmann-1844-special-edition-barbier",
+      "country": null,
+      "cigar_count": 5,
+      "lines": [
+        "h-upmann-1844-special-edition-barbier-churchill-box-25",
+        "h-upmann-1844-special-edition-barbier-corona-box-25",
+        "h-upmann-1844-special-edition-barbier-toro-box-25",
+        "h-upmann-1844-special-edition-barbier-robusto-box-25",
+        "h-upmann-1844-special-edition-barbier-belicoso-box-25"
+      ]
+    },
+    {
+      "id": "aj-fernandez",
+      "name": "AJ Fernandez",
+      "slug": "aj-fernandez",
+      "country": null,
+      "cigar_count": 5,
+      "lines": [
+        "aj-fernandez-robusto-box-20",
+        "aj-fernandez-toro-box-20",
+        "aj-fernandez-toro-tube-box-20",
+        "aj-fernandez-6-cigar-sampler-box-6",
+        "aj-fernandez-churchill-box-20"
+      ]
+    },
+    {
+      "id": "h-upmann-connecticut",
+      "name": "H Upmann Connecticut",
+      "slug": "h-upmann-connecticut",
+      "country": null,
+      "cigar_count": 2,
+      "lines": [
+        "h-upmann-connecticut-robusto-box-20",
+        "h-upmann-connecticut-toro-box-20"
+      ]
+    },
+    {
+      "id": "h-upmann-hispaniola-j-mendez",
+      "name": "H Upmann Hispaniola J. Mendez",
+      "slug": "h-upmann-hispaniola-j-mendez",
+      "country": null,
+      "cigar_count": 1,
+      "lines": [
+        "h-upmann-hispaniola-j-mendez-toro-box-20"
+      ]
+    },
+    {
+      "id": "h-upmann-ingot",
+      "name": "H Upmann Ingot",
+      "slug": "h-upmann-ingot",
+      "country": null,
+      "cigar_count": 1,
+      "lines": [
+        "h-upmann-ingot-arbitrage-box-12"
+      ]
+    },
+    {
+      "id": "h-upmann-nica-ajf-heritage",
+      "name": "H Upmann Nica Ajf Heritage",
+      "slug": "h-upmann-nica-ajf-heritage",
+      "country": null,
+      "cigar_count": 5,
+      "lines": [
+        "h-upmann-nica-ajf-heritage-churchill-box-20",
+        "h-upmann-nica-ajf-heritage-toro-box-20",
+        "h-upmann-nica-ajf-heritage-corona-box-20",
+        "h-upmann-nica-ajf-heritage-torpedo-box-20",
+        "h-upmann-nica-ajf-heritage-robusto-box-20"
+      ]
+    },
+    {
+      "id": "h-upmann-the-banker",
+      "name": "H Upmann The Banker",
+      "slug": "h-upmann-the-banker",
+      "country": null,
+      "cigar_count": 3,
+      "lines": [
+        "h-upmann-the-banker-annuity-box-20",
+        "h-upmann-the-banker-arbitrage-box-20",
+        "h-upmann-the-banker-currency-box-20"
+      ]
+    },
+    {
+      "id": "h-upmann-the-banker-daytrader",
+      "name": "H Upmann The Banker Daytrader",
+      "slug": "h-upmann-the-banker-daytrader",
+      "country": null,
+      "cigar_count": 3,
+      "lines": [
+        "h-upmann-the-banker-daytrader-robusto-box-10",
+        "h-upmann-the-banker-daytrader-whale-box-10",
+        "h-upmann-the-banker-daytrader-toro-box-10"
+      ]
+    },
+    {
+      "id": "h-upmann-vintage-cameroon",
+      "name": "H Upmann Vintage Cameroon",
+      "slug": "h-upmann-vintage-cameroon",
+      "country": null,
+      "cigar_count": 7,
+      "lines": [
+        "h-upmann-vintage-cameroon-corona-box-25",
+        "h-upmann-vintage-cameroon-belicoso-box-25",
+        "h-upmann-vintage-cameroon-lonsdale-box-25",
+        "h-upmann-vintage-cameroon-churchill-box-25",
+        "h-upmann-vintage-cameroon-toro-box-25",
+        "h-upmann-vintage-cameroon-petite",
+        "h-upmann-vintage-cameroon-robusto-box-25"
+      ]
+    },
+    {
+      "id": "henry-clay",
+      "name": "Henry Clay",
+      "slug": "henry-clay",
+      "country": null,
+      "cigar_count": 8,
+      "lines": [
+        "henry-clay-toro-box-25",
+        "henry-clay-brevas-finas-with-cello-box-20",
+        "henry-clay-brevas-finas-box-25",
+        "henry-clay-brevas-box-50",
+        "henry-clay-brevas-ala-conserva-box-25",
+        "henry-clay-toro-with-cello-box-20",
+        "henry-clay-rothchilde-box-25",
+        "henry-clay-brevas-with-cello-box-25"
+      ]
+    },
+    {
+      "id": "henry-clay-rustic-cheroot",
+      "name": "Henry Clay Rustic - Cheroot",
+      "slug": "henry-clay-rustic-cheroot",
+      "country": null,
+      "cigar_count": 1,
+      "lines": [
+        "henry-clay-rustic-cheroot-panatela-bdl-20"
+      ]
+    },
+    {
+      "id": "henry-clay-war-hawk",
+      "name": "Henry Clay War Hawk",
+      "slug": "henry-clay-war-hawk",
+      "country": null,
+      "cigar_count": 5,
+      "lines": [
+        "henry-clay-war-hawk-corona-box-25",
+        "henry-clay-war-hawk-churchill-box-25",
+        "henry-clay-war-hawk-robusto-box-25",
+        "henry-clay-war-hawk-toro-box-25"
+      ]
+    },
+    {
+      "id": "henry-clay-war-hawk-rebellious",
+      "name": "Henry Clay War Hawk Rebellious",
+      "slug": "henry-clay-war-hawk-rebellious",
+      "country": null,
+      "cigar_count": 1,
+      "lines": [
+        "henry-clay-war-hawk-rebellious-toro-box-20"
+      ]
+    },
+    {
+      "id": "honduran-bundles",
+      "name": "Honduran Bundles",
+      "slug": "honduran-bundles",
+      "country": null,
+      "cigar_count": 10,
+      "lines": [
+        "honduran-bundles-pr-5-bdl-20",
+        "honduran-bundles-pr-6-bdl-20",
+        "honduran-bundles-pr-9-bdl-20",
+        "honduran-bundles-pr-8-bdl-20",
+        "honduran-bundles-pr-11-bdl-20",
+        "honduran-bundles-pr-4-bdl-20",
+        "honduran-bundles-pr-10-bdl-20",
+        "honduran-bundles-pr-2-bdl-20",
+        "honduran-bundles-pr-3-bdl-20",
+        "honduran-bundles-pr-7-bdl-20"
+      ]
+    },
+    {
+      "id": "honduran-bundles-maduro",
+      "name": "Honduran Bundles Maduro",
+      "slug": "honduran-bundles-maduro",
+      "country": null,
+      "cigar_count": 1,
+      "lines": [
+        "honduran-bundles-maduro-pr-11-bdl-20"
+      ]
+    },
+    {
+      "id": "las-cabrillas",
+      "name": "Las Cabrillas",
+      "slug": "las-cabrillas",
+      "country": null,
+      "cigar_count": 4,
+      "lines": [
+        "las-cabrillas-columbus-box-15",
+        "las-cabrillas-de-soto-box-15",
+        "las-cabrillas-cortez-box-15",
+        "las-cabrillas-balboa-box-15"
+      ]
+    },
+    {
+      "id": "arturo-fuente",
+      "name": "Arturo Fuente",
+      "slug": "arturo-fuente",
+      "country": "Dominican Republic",
+      "cigar_count": 248,
+      "lines": [
+        "arturo-fuente-original-ctn-40",
+        "arturo-fuente-very-berry-ctn-40",
+        "arturo-fuente-sweet-ctn-40",
+        "arturo-fuente-churchill-box-20",
+        "arturo-fuente-corona-box-20",
+        "arturo-fuente-robusto-box-20",
+        "arturo-fuente-toro-box-20",
+        "arturo-fuente-magnum-box-20",
+        "arturo-fuente-torpedo-box-20",
+        "arturo-fuente-vf44-box-10",
+        "arturo-fuente-vf52-box-10",
+        "arturo-fuente-vf56-box-10",
+        "arturo-fuente-vf50-box-10",
+        "arturo-fuente-vf46-box-10",
+        "arturo-fuente-vf54-box-10",
+        "arturo-fuente-30ct-combo-box-30",
+        "arturo-fuente-af-canones-nat-20",
+        "arturo-fuente-af-canones-mad-20",
+        "arturo-fuente-af-chateau-cuban",
+        "arturo-fuente-af-chat-fuente-queen-b-sg-18",
+        "arturo-fuente-af-chateau-fuente-king-b-sg-18",
+        "arturo-fuente-af-chateau-fuente-king-t-24",
+        "arturo-fuente-af-chat-fue-king-t-rosado-sg",
+        "arturo-fuente-af-chateau-fuente-nat-20",
+        "arturo-fuente-af-chateau-fuente-mad-20",
+        "arturo-fuente-af-chateau-fuente-sg-20",
+        "arturo-fuente-af-chateau-fuente-pyramid-25",
+        "arturo-fuente-af-chat-fuente-royal-salute-nat",
+        "arturo-fuente-af-chat-fuente-royal-salute-mad",
+        "arturo-fuente-af-chat-fuente-royal-salute-sg",
+        "arturo-fuente-af-cuban",
+        "arturo-fuente-af-double-chateau-fuente-nat20",
+        "arturo-fuente-af-double-chateau-fuente-mad20",
+        "arturo-fuente-af-double-chateau-fuente-sg-20",
+        "arturo-fuente-af-double-chat-sg-5pk-humi-bag",
+        "arturo-fuente-af-flor-fina-8-5-8-nat-25",
+        "arturo-fuente-af-flor-fina-8-5-8-mad-25",
+        "arturo-fuente-af-flor-fina-8-5-8-xc-25",
+        "arturo-fuente-af-petit",
+        "arturo-fuente-af-rothschilds-nat-25",
+        "arturo-fuente-af-rothschilds-mad-25",
+        "arturo-fuente-af-seleccion-privada-1-nat-25",
+        "arturo-fuente-af-seleccion-privada-1-mad-25",
+        "arturo-fuente-af-seleccion-privada-1-ex-25",
+        "arturo-fuente-af-sel-privada-1-sel-doro-25",
+        "arturo-fuente-af-spanish-lonsdale-nat-25",
+        "arturo-fuente-af-spanish-lonsdale-mad-25",
+        "arturo-fuente-af-spanish-lonsdale-xc-25",
+        "arturo-fuente-af-brevas-royale-nat-50",
+        "arturo-fuente-af-brevas-royale-mad-50",
+        "arturo-fuente-af-brevas-royale-its-a-girl-25",
+        "arturo-fuente-af-brevas-royale-its-a-boy-25",
+        "arturo-fuente-af-cubanitos-nat-1010-tins",
+        "arturo-fuente-af-cubanitos-mad-1010-tins",
+        "arturo-fuente-af-curly-head-nat-40",
+        "arturo-fuente-af-curly-head-xc-40",
+        "arturo-fuente-af-curly-head-deluxe-nat-25",
+        "arturo-fuente-af-curly-head-deluxe-mad-25",
+        "arturo-fuente-af-exquisitos-sg-50",
+        "arturo-fuente-af-exquisitos-mad-50",
+        "arturo-fuente-af-cazadores-30",
+        "arturo-fuente-af-conquistadores-30",
+        "arturo-fuente-af-emperador-30",
+        "arturo-fuente-af-rosado-44-bx-44",
+        "arturo-fuente-af-rosado-52-bx-25",
+        "arturo-fuente-af-rosado-54-bx-25",
+        "arturo-fuente-af-rosado-56-bx-25",
+        "arturo-fuente-af-rosado-58-bx-25",
+        "arturo-fuente-af-rosado-super-60-bx-24",
+        "arturo-fuente-af-hemingway-best-seller-25",
+        "arturo-fuente-af-hemingway-short-story-25",
+        "arturo-fuente-af-hemingway-classic-nat-25",
+        "arturo-fuente-af-hemingway-masterpiece-nat10",
+        "arturo-fuente-af-hemingway-signature-nat-25",
+        "arturo-fuente-af-hemingway-work-of-art-nat25",
+        "arturo-fuente-af-hemingway-work-of-art-mad-25",
+        "arturo-fuente-af-don-carlos-2-25",
+        "arturo-fuente-af-don-carlos-3-25",
+        "arturo-fuente-af-don-carlos-4-25",
+        "arturo-fuente-af-don-carlos",
+        "arturo-fuente-af-don-carlos-presidente-25",
+        "arturo-fuente-af-don-carlos-dbl",
+        "arturo-fuente-casa-cuba-doble-dos-30",
+        "arturo-fuente-casa-cuba-doble-tres-30",
+        "arturo-fuente-casa-cuba-doble-cuatro-30",
+        "arturo-fuente-casa-cuba-doble-cinco-30",
+        "arturo-fuente-casa-cuba-doble-seis-30",
+        "arturo-fuente-montesino-1-nat-25",
+        "arturo-fuente-montesino-1-mad-25",
+        "arturo-fuente-montesino-2-nat-25",
+        "arturo-fuente-montesino-2-mad-25",
+        "arturo-fuente-montesino-diplomatico-nat-25",
+        "arturo-fuente-montesino-diplomatico-mad-25",
+        "arturo-fuente-montesino-gran",
+        "arturo-fuente-montesino-napoleon-grande-nat",
+        "arturo-fuente-montesino-napoleon-grande-mad",
+        "arturo-fuente-montesino",
+        "arturo-fuente-af-humidor-bag-refill-sm-cs-12",
+        "arturo-fuente-af-humidor-bag-refill-med-cs-12",
+        "arturo-fuente-af-humidor-bag-refill-lrg-cs-6",
+        "arturo-fuente-black-hat",
+        "arturo-fuente-ffopusx-black-hat",
+        "arturo-fuente-af-hands-of-time-ashtray-cream",
+        "arturo-fuente-af-hands-of-time-ashtray-black",
+        "arturo-fuente-af-hands-of-time-ashtray-red",
+        "arturo-fuente-af-hands-of-time-ashtray-green",
+        "arturo-fuente-ffox-oxo-hands-of-time-ashtray",
+        "arturo-fuente-casa-cuba-ashtray-orange",
+        "arturo-fuente-whereiscarlito-red",
+        "arturo-fuente-whereiscarlito-blue",
+        "arturo-fuente-whereiscarlito-green",
+        "arturo-fuente-whereiscarlito-black",
+        "arturo-fuente-whereiscarlito-white",
+        "arturo-fuente-af-flor-fina-8-5-8-sg-25",
+        "arturo-fuente-af-flor-fina-8-5-8-rosado-sg-20",
+        "arturo-fuente-af-rosado-oro-rosado-super-60-bx-24",
+        "arturo-fuente-a-father-and-his-son-sampler",
+        "arturo-fuente-af-best-seller-mad-25",
+        "arturo-fuente-af-short-story-mad-25",
+        "arturo-fuente-af-hemingway-betweenlines-25",
+        "arturo-fuente-af-hemingway-classic-mad-25",
+        "arturo-fuente-af-hemingway-classic-sg-25",
+        "arturo-fuente-af-hemingway-classic-oscuro-v-sg-25",
+        "arturo-fuente-af-hemingway-masterpiece-mad-10",
+        "arturo-fuente-af-hemingway-signature-mad-25",
+        "arturo-fuente-af-hemingway-signature-sg-bx-25",
+        "arturo-fuente-af-hemingway-signature-oscuro-sg-25",
+        "arturo-fuente-af-hemingway-untold-story-25",
+        "arturo-fuente-rare-pink-vintage-1960s-series-short-story",
+        "arturo-fuente-rare-pink-vintage-1960s-series-signature",
+        "arturo-fuente-rare-pink-vintage-1960s-series-work-of-art",
+        "arturo-fuente-rare-pink-vintage-1960s-series-happy-ending",
+        "arturo-fuente-rare-pink-vintage-1960s-series-sophisticated-hooker",
+        "arturo-fuente-rare-pink-vintage-1960s-series-queen-of-hearts",
+        "arturo-fuente-casa-cuba-divine-inspiration30",
+        "arturo-fuente-af-don-carlos-eye-of-the-shark-the-mans-80th",
+        "arturo-fuente-af-don-carlos-personal-reserve",
+        "arturo-fuente-af-don-carlos-the-man",
+        "arturo-fuente-af-don-carlos-eye-of-the-bull",
+        "arturo-fuente-af-anejo-reserva-46-mad-25",
+        "arturo-fuente-af-anejo-reserva-48-mad-25",
+        "arturo-fuente-af-anejo-reserva-49-mad-25",
+        "arturo-fuente-af-anejo-reserva-50-mad-25",
+        "arturo-fuente-af-anejo-reserva-55-mad-25",
+        "arturo-fuente-af-anejo-reserva-60-mad-25",
+        "arturo-fuente-af-anejo-reserva-66-xtra-viejo-25",
+        "arturo-fuente-af-anejo-shark-77-mad-20",
+        "arturo-fuente-af-anejo-reserva-888-mad-24",
+        "arturo-fuente-ffopusx",
+        "arturo-fuente-ffopusx-double",
+        "arturo-fuente-ffopusx-fuente-fuente-32",
+        "arturo-fuente-ffopusx-love-affair-18",
+        "arturo-fuente-ffopusx-perfecxion-a-20",
+        "arturo-fuente-ffopusx-perfecxion-x-32",
+        "arturo-fuente-ffopusx-perfecxion-2-29",
+        "arturo-fuente-ffopusx-perfecxion-4-42",
+        "arturo-fuente-ffopusx-perfecxion-5-42",
+        "arturo-fuente-ffopusx-petit",
+        "arturo-fuente-ffopusx-res-dchateau-32",
+        "arturo-fuente-ffopusx-super",
+        "arturo-fuente-ffopusx-perf-no-77-shark",
+        "arturo-fuente-ffopusx-magnum-o-36",
+        "arturo-fuente-ffopusx-perfecxion-888",
+        "arturo-fuente-af-holiday-collection-sampler",
+        "arturo-fuente-ffopusx-holiday-collection-sampler",
+        "arturo-fuente-ffopusx-pussy-cats",
+        "arturo-fuente-ffopusx-25th-aniversario",
+        "arturo-fuente-ffopusx-25th-anivesario-tributo",
+        "arturo-fuente-ffopusx-el-trece-magistral",
+        "arturo-fuente-ffopusx-25th-aniversario-humidor",
+        "arturo-fuente-ffopusx-perfecxion-x-tin3",
+        "arturo-fuente-ffopusx-res-dchateau-tin3",
+        "arturo-fuente-ffopusx-angels-share-perf-x-tin3",
+        "arturo-fuente-ffopusx-angels-share-res-dchat-tin3",
+        "arturo-fuente-ffopusx-angels-share",
+        "arturo-fuente-ffopusx-oxo-oro-oscuro-perf-x-tin3",
+        "arturo-fuente-ffopusx-oxo-oro-oscuro-res-dchat-tin3",
+        "arturo-fuente-ffopusx-oxo-oro-oscuro",
+        "arturo-fuente-ffopusx-angels-share-fue-fue-32",
+        "arturo-fuente-ffopusx-angels-share-perf-x-32",
+        "arturo-fuente-ffopusx-angels-share-res-dchat32",
+        "arturo-fuente-ffopusx-20th-believe",
+        "arturo-fuente-ffopusx-20th-power-of-the-dream",
+        "arturo-fuente-ffopusx-20th-father-son",
+        "arturo-fuente-ffopusx-20th-gods-whisper",
+        "arturo-fuente-ffopusx-20th-sol-de-amor",
+        "arturo-fuente-ffopusx-20th-viento-de-amor",
+        "arturo-fuente-ffopusx-oxo-oro-oscuro-fuente-fuente",
+        "arturo-fuente-ffopusx-oxo-oro-oscuro-reserva-d-chateau",
+        "arturo-fuente-ffopusx-oxo-oro-oscuro-perfecxion-x",
+        "arturo-fuente-ffopusx-oxo-oro-oscuro-perfecxion-4",
+        "arturo-fuente-ffopusx-oxo-oro-oscuro-super",
+        "arturo-fuente-ffopusx-oxo-oro-oscuro-double",
+        "arturo-fuente-ffopusx-forb-destiny-1980",
+        "arturo-fuente-ffopusx-forb-gods-whisper-1924",
+        "arturo-fuente-ffopusx-forb-keeper-of-the-flame",
+        "arturo-fuente-ffopusx-forb-nacimiento-1912",
+        "arturo-fuente-ffopusx-forb-torch-bearer-2012",
+        "arturo-fuente-ffopusx-heart-of-bull-1957",
+        "arturo-fuente-ffopusx-forb-pasion-damor",
+        "arturo-fuente-ffopusx-forb-deseos-damor",
+        "arturo-fuente-ffopusx-forb-el-beso-prohibido",
+        "arturo-fuente-ffopusx-forb-amor-sensual",
+        "arturo-fuente-casa-fuente-806-nat",
+        "arturo-fuente-casa-fuente-806-mad",
+        "arturo-fuente-casa-fuente-807-nat",
+        "arturo-fuente-casa-fuente-807-mad",
+        "arturo-fuente-casa-fuente-808-nat",
+        "arturo-fuente-casa-fuente-808-mad",
+        "arturo-fuente-casa-fuente",
+        "arturo-fuente-casa-fuente-double",
+        "arturo-fuente-casa-fuente-pyramid",
+        "arturo-fuente-ffopusx-dubai-arena-damor",
+        "arturo-fuente-ffopusx-carlito-especial-dubai-exclusivo-red-52",
+        "arturo-fuente-ffopusx-carlito-especial-dubai-exclusivo-black-56",
+        "arturo-fuente-don-arturo-destino-siglo-de-amistad-13",
+        "arturo-fuente-don-arturo-destino-siglo-de-amistad-26",
+        "arturo-fuente-don-arturo-destino-siglo-de-amor-13",
+        "arturo-fuente-don-arturo-destino-siglo-de-amor-26",
+        "arturo-fuente-don-arturo-destino-siglo-de-pasion-13",
+        "arturo-fuente-don-arturo-destino-siglo-de-pasion-26",
+        "arturo-fuente-don-arturo-destino-siglo-de-familias-13",
+        "arturo-fuente-don-arturo-destino-siglo-de-familas-26"
+      ]
+    },
+    {
+      "id": "montecristo",
+      "name": "Montecristo",
+      "slug": "montecristo",
+      "country": null,
+      "cigar_count": 76,
+      "lines": [
+        "montecristo-toro-box-16",
+        "montecristo-jacopo-no2-box-16",
+        "montecristo-conde-box-16",
+        "montecristo-monte-box-16",
+        "montecristo-double",
+        "montecristo-churchill-box-25",
+        "montecristo-4-pack-pk-32",
+        "montecristo-no-1-box-25",
+        "montecristo-no-2",
+        "montecristo-no-3-box-25",
+        "montecristo-pronto-petite-tin-30",
+        "montecristo-memories-tin-30",
+        "montecristo-robusto-box-25",
+        "montecristo-classic-tin-100",
+        "montecristo-white-tin-100",
+        "montecristo-toro-box-5",
+        "montecristo-espeso-box-10",
+        "montecristo-robusto-box-10",
+        "montecristo-no-2-box-10",
+        "montecristo-demi-box-20",
+        "montecristo-toro-box-10",
+        "montecristo-churchill-box-10",
+        "montecristo-icon-box-10",
+        "montecristo-grande-box-10",
+        "montecristo-core-6-sampler-box-6",
+        "montecristo-anniversary-sampler",
+        "montecristo-el-conde-tube-box-15",
+        "montecristo-robusto-box-20",
+        "montecristo-churchill-box-20",
+        "montecristo-tubo-especial-box-15",
+        "montecristo-especial-no3-box-20",
+        "montecristo-toro-box-20",
+        "montecristo-toro-pk-5",
+        "montecristo-especial-no1-box-20",
+        "montecristo-no-2-bp-box-20",
+        "montecristo-new-york-conn-ed-no2-box-10",
+        "montecristo-new-york-conn-ed-box-10",
+        "montecristo-blue-no-2-box-10",
+        "montecristo-blue",
+        "montecristo-guard-box-10",
+        "montecristo-ricasso-box-10",
+        "montecristo-quillion-box-10",
+        "montecristo-magnum-especial-box-10",
+        "montecristo-limited-edition-valiente-box-10",
+        "montecristo-toro-5-pack-box-40",
+        "montecristo-no2-box-20",
+        "montecristo-no-2-box-20",
+        "montecristo-robusto-box-27",
+        "montecristo-toro-box-27",
+        "montecristo-rothchilde-tube-box-15",
+        "montecristo-no-3-box-27",
+        "montecristo-churchill-tube-box-15",
+        "montecristo-churchill-box-27",
+        "montecristo-rothchilde-box-27",
+        "montecristo-monte-court-box-15",
+        "montecristo-toro-grande-box-15",
+        "montecristo-magnum-esp-box-20",
+        "montecristo-robusto-grande-box-15",
+        "montecristo-especial-no-1-box-27",
+        "montecristo-especial-no-3-box-27",
+        "montecristo-no-2-box-27",
+        "montecristo-rothchilde-box-10"
+      ]
+    },
+    {
+      "id": "omar-ortez-connecticuts",
+      "name": "Omar Ortez Connecticuts",
+      "slug": "omar-ortez-connecticuts",
+      "country": null,
+      "cigar_count": 7,
+      "lines": [
+        "omar-ortez-connecticuts-toro-box-60",
+        "omar-ortez-connecticuts-magnum-bdl-20",
+        "omar-ortez-connecticuts-toro-box-20",
+        "omar-ortez-connecticuts-robusto-box-20",
+        "omar-ortez-connecticuts-magnum-box-20",
+        "omar-ortez-connecticuts-robusto-box-60",
+        "omar-ortez-connecticuts-magnum-box-60"
+      ]
+    },
+    {
+      "id": "omar-ortez-maduro",
+      "name": "Omar Ortez Maduro",
+      "slug": "omar-ortez-maduro",
+      "country": null,
+      "cigar_count": 4,
+      "lines": [
+        "omar-ortez-maduro-toro-box-60",
+        "omar-ortez-maduro-robusto-box-60",
+        "omar-ortez-maduro-robusto-box-20",
+        "omar-ortez-maduro-toro-box-20"
+      ]
+    },
+    {
+      "id": "omar-ortez-originals",
+      "name": "Omar Ortez Originals",
+      "slug": "omar-ortez-originals",
+      "country": null,
+      "cigar_count": 4,
+      "lines": [
+        "omar-ortez-originals-robusto-box-20",
+        "omar-ortez-originals-toro-box-20",
+        "omar-ortez-originals-robusto-box-60",
+        "omar-ortez-originals-toro-box-60"
+      ]
+    },
+    {
+      "id": "onyx-bold-nicaragua",
+      "name": "Onyx Bold Nicaragua",
+      "slug": "onyx-bold-nicaragua",
+      "country": null,
+      "cigar_count": 3,
+      "lines": [
+        "onyx-bold-nicaragua-robusto-box-20",
+        "onyx-bold-nicaragua-toro-box-20",
+        "onyx-bold-nicaragua-magnum-box-20"
+      ]
+    },
+    {
+      "id": "onyx-reserve",
+      "name": "Onyx Reserve",
+      "slug": "onyx-reserve",
+      "country": null,
+      "cigar_count": 3,
+      "lines": [
+        "onyx-reserve-robusto-box-20",
+        "onyx-reserve-toro-box-20",
+        "onyx-reserve-churchill-box-20"
+      ]
+    },
+    {
+      "id": "onyx-vintage-nicaragua",
+      "name": "Onyx Vintage Nicaragua",
+      "slug": "onyx-vintage-nicaragua",
+      "country": null,
+      "cigar_count": 3,
+      "lines": [
+        "onyx-vintage-nicaragua-magnum-box-20",
+        "onyx-vintage-nicaragua-toro-box-20",
+        "onyx-vintage-nicaragua-robusto-box-20"
+      ]
+    },
+    {
+      "id": "ryj-1875-vintage-lote",
+      "name": "Ryj 1875 Vintage Lote",
+      "slug": "ryj-1875-vintage-lote",
+      "country": null,
+      "cigar_count": 1,
+      "lines": [
+        "ryj-1875-vintage-lote-double"
+      ]
+    },
+    {
+      "id": "ryj-reserva-real-nicaragua-midnight-twist",
+      "name": "Ryj Reserva Real Nicaragua Midnight Twist",
+      "slug": "ryj-reserva-real-nicaragua-midnight-twist",
+      "country": null,
+      "cigar_count": 2,
+      "lines": [
+        "ryj-reserva-real-nicaragua-midnight-twist-twisted-love-story-box-25",
+        "ryj-reserva-real-nicaragua-midnight-twist-twisted"
+      ]
+    },
+    {
+      "id": "saint-luis-rey",
+      "name": "Saint Luis Rey",
+      "slug": "saint-luis-rey",
+      "country": null,
+      "cigar_count": 6,
+      "lines": [
+        "saint-luis-rey-corona-box-25",
+        "saint-luis-rey-titan-box-25",
+        "saint-luis-rey-rothchilde-box-25",
+        "saint-luis-rey-belicoso-box-25",
+        "saint-luis-rey-churchill-box-25",
+        "saint-luis-rey-toro-box-25"
+      ]
+    },
+    {
+      "id": "saint-luis-rey-battle-of-titans",
+      "name": "Saint Luis Rey Battle Of Titans",
+      "slug": "saint-luis-rey-battle-of-titans",
+      "country": null,
+      "cigar_count": 1,
+      "lines": [
+        "saint-luis-rey-battle-of-titans-6-ct-sampler-box-6"
+      ]
+    },
+    {
+      "id": "saint-luis-rey-carenas",
+      "name": "Saint Luis Rey Carenas",
+      "slug": "saint-luis-rey-carenas",
+      "country": null,
+      "cigar_count": 5,
+      "lines": [
+        "saint-luis-rey-carenas-sampler-box-5",
+        "saint-luis-rey-carenas-belicoso-box-20",
+        "saint-luis-rey-carenas-magnum-box-20",
+        "saint-luis-rey-carenas-toro-box-20",
+        "saint-luis-rey-carenas-robusto-box-20"
+      ]
+    },
+    {
+      "id": "saint-luis-rey-carenas-ultramar",
+      "name": "Saint Luis Rey Carenas Ultramar",
+      "slug": "saint-luis-rey-carenas-ultramar",
+      "country": null,
+      "cigar_count": 4,
+      "lines": [
+        "saint-luis-rey-carenas-ultramar-corona-box-20",
+        "saint-luis-rey-carenas-ultramar-magnum-box-20",
+        "saint-luis-rey-carenas-ultramar-robusto-box-20",
+        "saint-luis-rey-carenas-ultramar-toro-box-20"
+      ]
+    },
+    {
+      "id": "saint-luis-rey-maduro",
+      "name": "Saint Luis Rey Maduro",
+      "slug": "saint-luis-rey-maduro",
+      "country": null,
+      "cigar_count": 2,
+      "lines": [
+        "saint-luis-rey-maduro-rothchilde-mad-box-25",
+        "saint-luis-rey-maduro-titan-mad-box-25"
+      ]
+    },
+    {
+      "id": "saint-luis-rey-serie-g-maduro",
+      "name": "Saint Luis Rey Serie G Maduro",
+      "slug": "saint-luis-rey-serie-g-maduro",
+      "country": null,
+      "cigar_count": 3,
+      "lines": [
+        "saint-luis-rey-serie-g-maduro-no-6-box-25",
+        "saint-luis-rey-serie-g-maduro-rothchilde-box-25",
+        "saint-luis-rey-serie-g-maduro-churchill-box-25"
+      ]
+    },
+    {
+      "id": "saint-luis-rey-serie-g-natural",
+      "name": "Saint Luis Rey Serie G Natural",
+      "slug": "saint-luis-rey-serie-g-natural",
+      "country": null,
+      "cigar_count": 3,
+      "lines": [
+        "saint-luis-rey-serie-g-natural-no-6-box-25",
+        "saint-luis-rey-serie-g-natural-rothchilde-box-25",
+        "saint-luis-rey-serie-g-natural-churchill-box-25"
+      ]
+    },
+    {
+      "id": "te-amo-the-original-san-andres",
+      "name": "Te Amo The Original San Andres",
+      "slug": "te-amo-the-original-san-andres",
+      "country": null,
+      "cigar_count": 3,
+      "lines": [
+        "te-amo-the-original-san-andres-toro-box-20",
+        "te-amo-the-original-san-andres-robusto-box-20",
+        "te-amo-the-original-san-andres-magnum-box-20"
+      ]
+    },
+    {
+      "id": "trinidad-espiritu",
+      "name": "Trinidad Espiritu",
+      "slug": "trinidad-espiritu",
+      "country": null,
+      "cigar_count": 7,
+      "lines": [
+        "trinidad-espiritu-toro-lighter-box-5",
+        "trinidad-espiritu-robusto-box-20",
+        "trinidad-espiritu-toro-box-20",
+        "trinidad-espiritu-5-vitola-sampler-box-25",
+        "trinidad-espiritu-belicoso-box-20",
+        "trinidad-espiritu-magnum-box-20",
+        "trinidad-espiritu-fundador-box-20"
+      ]
+    },
+    {
+      "id": "trinidad-espiritu-series-2",
+      "name": "Trinidad Espiritu Series 2",
+      "slug": "trinidad-espiritu-series-2",
+      "country": null,
+      "cigar_count": 6,
+      "lines": [
+        "trinidad-espiritu-series-2-belicoso-box-20",
+        "trinidad-espiritu-series-2-robusto-box-20",
+        "trinidad-espiritu-series-2-fundador-box-20",
+        "trinidad-espiritu-series-2-magnum-box-20",
+        "trinidad-espiritu-series-2-toro-lighter-box-5",
+        "trinidad-espiritu-series-2-toro-box-20"
+      ]
+    },
+    {
+      "id": "trinidad-espiritu-series-3",
+      "name": "Trinidad Espiritu Series 3",
+      "slug": "trinidad-espiritu-series-3",
+      "country": null,
+      "cigar_count": 5,
+      "lines": [
+        "trinidad-espiritu-series-3-belicoso-box-20",
+        "trinidad-espiritu-series-3-robusto-box-20",
+        "trinidad-espiritu-series-3-toro-box-20",
+        "trinidad-espiritu-series-3-magnum-box-20",
+        "trinidad-espiritu-series-3-fundador-box-20"
+      ]
+    },
+    {
+      "id": "cuesta-rey",
+      "name": "Cuesta-Rey",
+      "slug": "cuesta-rey",
+      "country": "Nicaragua",
+      "cigar_count": 25,
+      "lines": [
+        "cuesta-rey-core",
+        "cuesta-rey-maduro",
+        "cuesta-rey-shade",
+        "cuesta-rey-uc10"
+      ]
+    },
+    {
+      "id": "acid",
+      "name": "Acid",
+      "slug": "acid",
+      "country": "Nicaragua",
+      "cigar_count": 35,
+      "lines": [
+        "acid-core",
+        "acid-krush"
+      ]
+    },
+    {
+      "id": "ambrosia",
+      "name": "Ambrosia",
+      "slug": "ambrosia",
+      "country": "Nicaragua",
+      "cigar_count": 4,
+      "lines": [
+        "ambrosia-core"
+      ]
+    },
+    {
+      "id": "blackened",
+      "name": "Blackened",
+      "slug": "blackened",
+      "country": "Nicaragua",
+      "cigar_count": 8,
+      "lines": [
+        "blackened-s84",
+        "blackened-m81"
+      ]
+    },
+    {
+      "id": "deadwood",
+      "name": "Deadwood",
+      "slug": "deadwood",
+      "country": "Nicaragua",
+      "cigar_count": 8,
+      "lines": [
+        "deadwood-core"
+      ]
+    },
+    {
+      "id": "factory-smokes",
+      "name": "Factory Smokes",
+      "slug": "factory-smokes",
+      "country": "Nicaragua",
+      "cigar_count": 16,
+      "lines": [
+        "factory-smokes-maduro",
+        "factory-smokes-shade",
+        "factory-smokes-sungrown",
+        "factory-smokes-sweets"
+      ]
+    },
+    {
+      "id": "herrera-esteli",
+      "name": "Herrera Esteli",
+      "slug": "herrera-esteli",
+      "country": "Nicaragua",
+      "cigar_count": 17,
+      "lines": [
+        "herrera-esteli-brazilian-maduro",
+        "herrera-esteli-habano",
+        "herrera-esteli-norteno",
+        "herrera-esteli-tienda-exclusiva",
+        "herrera-esteli-miami"
+      ]
+    },
+    {
+      "id": "isla-del-sol",
+      "name": "Isla Del Sol",
+      "slug": "isla-del-sol",
+      "country": "Nicaragua",
+      "cigar_count": 11,
+      "lines": [
+        "isla-del-sol-maduro",
+        "isla-del-sol-sungrown"
+      ]
+    },
+    {
+      "id": "joya-de-nicaragua",
+      "name": "Joya De Nicaragua",
+      "slug": "joya-de-nicaragua",
+      "country": "Nicaragua",
+      "cigar_count": 72,
+      "lines": [
+        "joya-de-nicaragua-antano-1970",
+        "joya-de-nicaragua-antano-ct",
+        "joya-de-nicaragua-antano-dark-corojo",
+        "joya-de-nicaragua-antano-gran-reserva",
+        "joya-de-nicaragua-cinco-de-cinco",
+        "joya-de-nicaragua-cuatro-cinco",
+        "joya-de-nicaragua-joya-black",
+        "joya-de-nicaragua-joya-cabinetta",
+        "joya-de-nicaragua-joya-red",
+        "joya-de-nicaragua-joya-silver",
+        "joya-de-nicaragua-other",
+        "joya-de-nicaragua-cinco-decadas",
+        "joya-de-nicaragua-clasico-claro-original",
+        "joya-de-nicaragua-clasico-medio-siglo",
+        "joya-de-nicaragua-numero-uno"
+      ]
+    },
+    {
+      "id": "kentucky-fire-cured",
+      "name": "Kentucky Fire Cured",
+      "slug": "kentucky-fire-cured",
+      "country": "Nicaragua",
+      "cigar_count": 11,
+      "lines": [
+        "kentucky-fire-cured-core",
+        "kentucky-fire-cured-sweets"
+      ]
+    },
+    {
+      "id": "larutan",
+      "name": "Larutan",
+      "slug": "larutan",
+      "country": "Nicaragua",
+      "cigar_count": 2,
+      "lines": [
+        "larutan-core"
+      ]
+    },
+    {
+      "id": "nica-rustica",
+      "name": "Nica Rustica",
+      "slug": "nica-rustica",
+      "country": "Nicaragua",
+      "cigar_count": 6,
+      "lines": [
+        "nica-rustica-adobe",
+        "nica-rustica-broadleaf"
+      ]
+    },
+    {
+      "id": "other",
+      "name": "Other",
+      "slug": "other",
+      "country": "Nicaragua",
+      "cigar_count": 1,
+      "lines": [
+        "other-core"
+      ]
+    },
+    {
+      "id": "tabak-especial",
+      "name": "Tabak Especial",
+      "slug": "tabak-especial",
+      "country": "Nicaragua",
+      "cigar_count": 12,
+      "lines": [
+        "tabak-especial-dulce",
+        "tabak-especial-negra"
+      ]
+    },
+    {
+      "id": "liga-privada",
+      "name": "Liga Privada",
+      "slug": "liga-privada",
+      "country": "Nicaragua",
+      "cigar_count": 29,
+      "lines": [
+        "liga-privada-aniversario",
+        "liga-privada-h99",
+        "liga-privada-no-9",
+        "liga-privada-t52",
+        "liga-privada-unico"
+      ]
+    },
+    {
+      "id": "pappy-van-winkle",
+      "name": "Pappy Van Winkle",
+      "slug": "pappy-van-winkle",
+      "country": "Nicaragua",
+      "cigar_count": 3,
+      "lines": [
+        "pappy-van-winkle-barrel-fermented"
+      ]
+    },
+    {
+      "id": "jc-newman",
+      "name": "J.C. Newman",
+      "slug": "jc-newman",
+      "country": "Dominican Republic",
+      "cigar_count": 312,
+      "lines": [
+        "jc-newman-cr-898-nat-cab-20",
+        "jc-newman-cr-95-nat-cab-25",
+        "jc-newman-cr-aristocrat-nat-10-glass-tube",
+        "jc-newman-cr-cameo-1010-tins",
+        "jc-newman-cr-centenario-60-nat-bx-10",
+        "jc-newman-cr-pyramid-9-nat-bx-10",
+        "jc-newman-cr-tuscany-nat-bx-10-aluminum-tube",
+        "jc-newman-cr-centenario-60-mad-bx-10",
+        "jc-newman-cr-pyramid-9-mad-bx-10",
+        "jc-newman-cr-centro-fino-60-bx-10",
+        "jc-newman-cr-centro-fino-pyramid-9-bx-10",
+        "jc-newman-cr-centro-fino",
+        "jc-newman-dc-dbl",
+        "jc-newman-dc-figurado-6-nat-bx-20",
+        "jc-newman-dc-pyramid-7-nat-bx-20",
+        "jc-newman-dc-figurado-6-mad-bx-20",
+        "jc-newman-dc-maximus-double",
+        "jc-newman-dc-maximus",
+        "jc-newman-dc-maximus-pyramid-3",
+        "jc-newman-dc-maximus-dbl",
+        "jc-newman-dc-julius-caeser",
+        "jc-newman-dc-julius-caeser-pyramid-bx-20",
+        "jc-newman-dc-julius-caeser-hail-caeser-bx-20",
+        "jc-newman-dc-julius-caeser-1895-perfecto-bx-20-dccl-only",
+        "jc-newman-dc-troublemaker-bx-20",
+        "jc-newman-dc-royal-collection",
+        "jc-newman-la-unica-100-nat-bx-20",
+        "jc-newman-la-unica-200-nat-bx-20",
+        "jc-newman-la-unica-300-nat-bx-20",
+        "jc-newman-la-unica-400-nat-bx-20",
+        "jc-newman-la-unica-500-nat-bx-20",
+        "jc-newman-la-unica-600-nat-bx-20",
+        "jc-newman-la-unica-100-mad-bx-20",
+        "jc-newman-la-unica-200-mad-bx-20",
+        "jc-newman-la-unica-300-mad-bx-20",
+        "jc-newman-la-unica-400-mad-bx-20",
+        "jc-newman-la-unica-500-mad-bx-20",
+        "jc-newman-la-unica-600-mad-bx-20",
+        "jc-newman-dc-black-diamond-emerald-bx-20",
+        "jc-newman-dc-black-diamond-marquis-bx-20",
+        "jc-newman-dc-black-diamond-radiant-bx-20",
+        "jc-newman-alcazar-maduro-1-bdl-20",
+        "jc-newman-alcazar-maduro-2-bdl-20",
+        "jc-newman-alcazar-maduro-3-bdl-20",
+        "jc-newman-alcazar-maduro-4-bdl-20",
+        "jc-newman-alcazar",
+        "jc-newman-bh-mighty-mighty-nat-25",
+        "jc-newman-bh-short-torp-nat-25",
+        "jc-newman-bh-teaser-28",
+        "jc-newman-bh-traveler-21",
+        "jc-newman-bh-mighty-mighty-dbl-conn-25",
+        "jc-newman-bh-sh-torp-dbl-conn-25",
+        "jc-newman-bh-mighty-mighty-mad-25",
+        "jc-newman-don-jose-el-grandee-nat-hm",
+        "jc-newman-don-jose-granada-nat-hm",
+        "jc-newman-don-jose-san-marco-nat-hm",
+        "jc-newman-don-jose",
+        "jc-newman-don-jose-turbo-nat-hm",
+        "jc-newman-don-jose-valrico-nat-hm",
+        "jc-newman-don-jose-el-grandee-mad-hm",
+        "jc-newman-don-jose-granada-mad-hm",
+        "jc-newman-don-jose-san-marco-mad-hm",
+        "jc-newman-don-jose-turbo-mad-hm",
+        "jc-newman-don-jose-valrico-mad-hm",
+        "jc-newman-el-baton",
+        "jc-newman-el-baton-double",
+        "jc-newman-bh-sampler-10-box-4",
+        "jc-newman-nic-6x60-sampler-10bx-4",
+        "jc-newman-perla-del-mar",
+        "jc-newman-perla-del-mar-double",
+        "jc-newman-perla-del-mar-short",
+        "jc-newman-havana-q-double",
+        "jc-newman-havana-q-double-grande-bag20",
+        "jc-newman-quorum",
+        "jc-newman-quorum-double",
+        "jc-newman-quorum-short",
+        "jc-newman-quorum-tres-petit",
+        "jc-newman-quorum-nat-bundle-bin-of-7",
+        "jc-newman-quorum-shade",
+        "jc-newman-quorum-shade-double",
+        "jc-newman-quorum-shade-short",
+        "jc-newman-quorum-shade-tres-petit-bdl-30",
+        "jc-newman-quorum-shade-bundle-bin-of-7",
+        "jc-newman-quorum-maduro",
+        "jc-newman-quorum-maduro-double",
+        "jc-newman-quorum-maduro-short",
+        "jc-newman-quorum-maduro-torpdeo-bdl-20",
+        "jc-newman-quorum-maduro-bundle-bin-of-7",
+        "jc-newman-yagua",
+        "jc-newman-hh-dbl-chrch-nat-8-12x52-bdl-20",
+        "jc-newman-hh-dbl",
+        "jc-newman-hh-dbl-chrch-mad-8-12x52-bdl-20",
+        "jc-newman-cr-caravelles-nat-bx-25",
+        "jc-newman-cr-caravelles-boy-nat-bx-25",
+        "jc-newman-cr-caravelles-girl-nat-bx-25",
+        "jc-newman-decision-250-mad-bdl-20",
+        "jc-newman-decision-350-mad-bdl-20",
+        "jc-newman-decision-450-mad-bdl-20",
+        "jc-newman-decision-550-mad-bdl-20",
+        "jc-newman-el-reloj-ocho-bx-25",
+        "jc-newman-jcn-59-nat-factory-throwouts",
+        "jc-newman-jcn-59-its-a-boy",
+        "jc-newman-jcn-59-its-a-girl",
+        "jc-newman-jcn-49-nat-factory-throwouts",
+        "jc-newman-jcn-99-nat-factory-throwouts",
+        "jc-newman-jcn-59-xc-factory-throwouts",
+        "jc-newman-jcn-59-sweet-factory-throwouts",
+        "jc-newman-jcn-49-sweet-factory-throwouts",
+        "jc-newman-jcn-99-sweet-factory-throwouts",
+        "jc-newman-mexican-segundos-25-nat-20",
+        "jc-newman-mexican-segundos-35-nat-20",
+        "jc-newman-mexican-segundos-45-nat-20",
+        "jc-newman-mexican-segundos-55-nat-20",
+        "jc-newman-mexican-segundos-25-mad-20",
+        "jc-newman-mexican-segundos-35-mad-20",
+        "jc-newman-mexican-segundos-45-mad-20",
+        "jc-newman-mexican-segundos-55-mad-20",
+        "jc-newman-moya-cazadores-nat-bdl-18",
+        "jc-newman-moya-cazadores-mad-bdl-18",
+        "jc-newman-moya-fumas-nat-bdl-18",
+        "jc-newman-moya-fumas-mad-bdl-18",
+        "jc-newman-rigoletto-black-jack-bx-25",
+        "jc-newman-rigoletto-black-jack-54-pk",
+        "jc-newman-rigoletto-palma-grande-nat-30",
+        "jc-newman-tampa-trolleys",
+        "jc-newman-trader-jacks-nat-aromatic-20",
+        "jc-newman-trader-jacks-jar-of-30",
+        "jc-newman-trader-jacks-sunrise-aromatic-20",
+        "jc-newman-trader-jacks-sunrise-jar-of-30",
+        "jc-newman-trader-jacks-midnight-aromatic-20",
+        "jc-newman-trader-jacks-midnight-jar-of-30",
+        "jc-newman-the-american",
+        "jc-newman-the-american-double",
+        "jc-newman-the-american-president-10",
+        "jc-newman-angel-cuesta-doble",
+        "jc-newman-angel-cuesta",
+        "jc-newman-angel-cuesta-salamones-20",
+        "jc-newman-dutch-delights-classic-nat-bx-50-sumatra",
+        "jc-newman-dutch-delights-classic-mad-bx-50-brasil",
+        "jc-newman-dutch-delights-wild-nat-bx-50-sumatra",
+        "jc-newman-dutch-delights-wild-mad-bx-50-brasil",
+        "jc-newman-dc-alexander-humidor-40-cnt",
+        "jc-newman-dc-alexander-humidor-90-cnt",
+        "jc-newman-dc-alexander-humidor-160-cnt",
+        "jc-newman-dc-drake-humidor-40-cnt",
+        "jc-newman-dc-drake-humidor-90-cnt",
+        "jc-newman-dc-mozart-humidor-40-cnt",
+        "jc-newman-dc-mozart-humidor-90-cnt",
+        "jc-newman-dc-oxford-humidor-40-cnt",
+        "jc-newman-dc-oxford-humidor-90-cnt",
+        "jc-newman-dc-wesley-humidor-40-cnt",
+        "jc-newman-dc-wesley-humidor-90-cnt",
+        "jc-newman-dc-windsor-humidor-40-cnt",
+        "jc-newman-dc-windsor-humidor-90-cnt",
+        "jc-newman-dc-camden-humidor-40-cnt",
+        "jc-newman-dc-camden-humidor-90-cnt",
+        "jc-newman-dc-alexander-ashtray",
+        "jc-newman-dc-drake-ashtray",
+        "jc-newman-dc-mozart-ashtray",
+        "jc-newman-dc-oxford-ashtray",
+        "jc-newman-dc-peabody-ashtray",
+        "jc-newman-dc-windsor-ashtray",
+        "jc-newman-dc-wesley-ashtray",
+        "jc-newman-dc-camden-ashtray",
+        "jc-newman-dc-humidification-system",
+        "jc-newman-dc-humidification-system-dsp6",
+        "jc-newman-dc-hygrometer",
+        "jc-newman-dc-hygrometer-dsp6",
+        "jc-newman-cb-andean-humidor",
+        "jc-newman-cb-calico-humidor",
+        "jc-newman-cb-champion-humidor",
+        "jc-newman-cb-dynasty-humidor",
+        "jc-newman-cb-glenwood-humidor",
+        "jc-newman-cb-la-salle-humidor",
+        "jc-newman-cb-laredo-humidor",
+        "jc-newman-cb-passport-humidor",
+        "jc-newman-cb-xl-passport-humidor",
+        "jc-newman-cb-passport-black-humidor",
+        "jc-newman-cb-raven-humidor",
+        "jc-newman-cb-saxon-humidor",
+        "jc-newman-cb-manhattan-gift-set-humidor",
+        "jc-newman-cb-sonoma-giftset-humidor",
+        "jc-newman-cb-highlander-humidor",
+        "jc-newman-cb-taj-majal-humidor",
+        "jc-newman-cb-neptune-black-ashtray",
+        "jc-newman-cb-olympus-black-ashtray",
+        "jc-newman-cb-sterling-black-ashtray",
+        "jc-newman-cb-trident-white-ashtray",
+        "jc-newman-cb-verrazano-ashtray",
+        "jc-newman-cb-combo-ashtray-set",
+        "jc-newman-cb-boca-grande-coll-nat-ashtray",
+        "jc-newman-cb-boca-grande-coll-mad-ashtray",
+        "jc-newman-cb-boca-grande-coll-ashtray-combo",
+        "jc-newman-cb-boca-grande-coll-sg-ashtray",
+        "jc-newman-cb-double-blade-cutter-box-dsp20",
+        "jc-newman-cb-double-blade-cutter-box-cs80",
+        "jc-newman-cb-bullet-cutter-dsp20",
+        "jc-newman-cb-bullet-cutter-cs-of-40",
+        "jc-newman-cb-v-cut-cutter-dsp20",
+        "jc-newman-cb-v-cut-cutter-cs-of-40",
+        "jc-newman-cb-double-blade-cutter-blister-single",
+        "jc-newman-cb-double-blade-cutter-blister",
+        "jc-newman-cb-gunmetal-cutter-dsp12",
+        "jc-newman-cb-stainless-steel-cutter-dsp12",
+        "jc-newman-512-x-56",
+        "jc-newman-6-x-52",
+        "jc-newman-714-x-56"
+      ]
+    },
+    {
+      "id": "blackbird-core-line",
+      "name": "Blackbird Core Line",
+      "slug": "blackbird-core-line",
+      "country": null,
+      "cigar_count": 8,
+      "lines": []
+    },
+    {
+      "id": "oliva",
+      "name": "Oliva",
+      "slug": "oliva",
+      "country": "Nicaragua",
+      "cigar_count": 161,
+      "lines": []
+    },
+    {
+      "id": "firebird-order-form-2024",
+      "name": "Firebird Order Form - 2024",
+      "slug": "firebird-order-form-2024",
+      "country": null,
+      "cigar_count": 2,
+      "lines": []
+    },
+    {
+      "id": "diesel",
+      "name": "Diesel",
+      "slug": "diesel",
+      "country": "Nicaragua",
+      "cigar_count": 78,
+      "lines": []
+    },
+    {
+      "id": "blackbird-value-cigars",
+      "name": "Blackbird Value Cigars",
+      "slug": "blackbird-value-cigars",
+      "country": null,
+      "cigar_count": 8,
+      "lines": []
+    },
+    {
+      "id": "patina",
+      "name": "Patina",
+      "slug": "patina",
+      "country": "Nicaragua",
+      "cigar_count": 12,
+      "lines": []
+    },
+    {
+      "id": "perdomo",
+      "name": "Perdomo",
+      "slug": "perdomo",
+      "country": "Nicaragua",
+      "cigar_count": 16,
+      "lines": []
+    },
+    {
+      "id": "ashton",
+      "name": "Ashton",
+      "slug": "ashton",
+      "country": "Dominican Republic",
+      "cigar_count": 126,
+      "lines": []
+    },
+    {
+      "id": "padron",
+      "name": "Padron",
+      "slug": "padron",
+      "country": "Nicaragua",
+      "cigar_count": 20,
+      "lines": [
+        "padron-1964-anniversary-series-a-50-x-814-10-38250-22950",
+        "padron-40th-anniversary-chest-54-x-612-40-210600-105300",
+        "padron-series-cigar-sampler"
+      ]
+    },
+    {
+      "id": "espinosa",
+      "name": "Espinosa",
+      "slug": "espinosa",
+      "country": null,
+      "cigar_count": 66,
+      "lines": []
+    },
+    {
+      "id": "la-flor-dominicana",
+      "name": "La Flor Dominicana",
+      "slug": "la-flor-dominicana",
+      "country": "Dominican Republic",
+      "cigar_count": 131,
+      "lines": [
+        "la-flor-dominicana-1994-20th-anniversary-cigar-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-air-bender-double-press-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-cameroon-cabinets-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-double-claro-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-double-ligero-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-lfd-sampler-selections-tubo-sampler-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-ligero-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-ligero-cabinet-oscuro-natural-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-limited-production-cigars-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-little-cigars-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-oro-line-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-reserva-especial-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-suave-pca-2025-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-taa-appointed-merchants-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-la-belle-poque-premium-bundles-long-filler-ws-wb-rs-rb-rbm",
+        "la-flor-dominicana-fumas-short-filler-ws-wb-rs-rb-rbm"
+      ]
+    },
+    {
+      "id": "plasencia",
+      "name": "Plasencia",
+      "slug": "plasencia",
+      "country": "Nicaragua",
+      "cigar_count": 38,
+      "lines": []
+    },
+    {
+      "id": "forged",
+      "name": "Forged",
+      "slug": "forged",
+      "country": "Nicaragua",
+      "cigar_count": 54,
+      "lines": []
+    },
+    {
+      "id": "foundation",
+      "name": "Foundation",
+      "slug": "foundation",
+      "country": "Nicaragua",
+      "cigar_count": 40,
+      "lines": [
+        "foundation-charter-oak-shade-maduro-habano",
+        "foundation-the-wise-man-corojo-maduro",
+        "foundation-tabernacle-broadleaf-ct-142",
+        "foundation-the-wise-man-lancero-corojo-maduro",
+        "foundation-tabernacle-knight-commander"
+      ]
+    },
+    {
+      "id": "adventura-cigars",
+      "name": "Adventura Cigars_",
+      "slug": "adventura-cigars",
+      "country": null,
+      "cigar_count": 20,
+      "lines": []
+    },
+    {
+      "id": "general-cigar",
+      "name": "General Cigar",
+      "slug": "general-cigar",
+      "country": "Dominican Republic",
+      "cigar_count": 59,
+      "lines": []
+    },
+    {
+      "id": "el-septimo-cigar-wholesale-usa-2025",
+      "name": "El Septimo Cigar Wholesale Usa - 2025",
+      "slug": "el-septimo-cigar-wholesale-usa-2025",
+      "country": null,
+      "cigar_count": 8,
+      "lines": []
+    },
+    {
+      "id": "oscar-valladares",
+      "name": "Oscar Valladares",
+      "slug": "oscar-valladares",
+      "country": "Honduras",
+      "cigar_count": 38,
+      "lines": []
+    },
+    {
+      "id": "my-father",
+      "name": "My Father",
+      "slug": "my-father",
+      "country": "Nicaragua",
+      "cigar_count": 83,
+      "lines": [
+        "my-father-my-father",
+        "my-father-my-father-connecticut",
+        "my-father-don-pepin-garcia-series-jj",
+        "my-father-my-father-mf-the-judge",
+        "my-father-don-pepin-garcia-vegas-cubanas",
+        "my-father-jaime-garcia-reserva-especial",
+        "my-father-la-antiguedad",
+        "my-father-flor-de-las-antillas",
+        "my-father-la-duea",
+        "my-father-flor-de-las-antillas-maduro-bp",
+        "my-father-tabacos-baez-serie-sf",
+        "my-father-fonseca",
+        "my-father-el-centurion-h2kct",
+        "my-father-fonseca-mexico-edition",
+        "my-father-my-father-la-opulencia",
+        "my-father-my-father-la-promesa",
+        "my-father-jaime-garcia-re-connecticut"
+      ]
+    }
+  ]
+}

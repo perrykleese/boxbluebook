@@ -1,0 +1,36 @@
+{
+  "stats": {
+    "files_processed": 5,
+    "cigars_extracted": 1228,
+    "errors": []
+  },
+  "file_results": {
+    "Drew Diplomat Exclusive Products Price List.xlsx": {
+      "status": "success",
+      "cigars_extracted": 58,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/excel/drew_diplomat_exclusive_products_price_list.json"
+    },
+    "AUSA Price List 2025.xlsx": {
+      "status": "success",
+      "cigars_extracted": 414,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/excel/ausa_price_list_2025.json"
+    },
+    "J.C. Newman Price List and UPC - 2025.xlsx": {
+      "status": "success",
+      "cigars_extracted": 314,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/excel/j.c._newman_price_list_and_upc_-_2025.json"
+    },
+    "Arturo Fuente Price List w Special Cigars and UPCs - 2025.xlsx": {
+      "status": "success",
+      "cigars_extracted": 240,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/excel/arturo_fuente_price_list_w_special_cigars_and_upcs_-_2025.json"
+    },
+    "Drew Estate Retailer Price List.xlsx": {
+      "status": "success",
+      "cigars_extracted": 202,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/excel/drew_estate_retailer_price_list.json"
+    }
+  },
+  "total_cigars": 1228,
+  "timestamp": "2026-02-05T00:18:51.816438"
+}

@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" fill="none">
+  <defs>
+    <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4ff"/>
+      <stop offset="50%" style="stop-color:#0099ff"/>
+      <stop offset="100%" style="stop-color:#7b2ff7"/>
+    </linearGradient>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#00d4ff"/>
+      <stop offset="100%" style="stop-color:#7b2ff7"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="softGlow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Icon: 3D box with book pages -->
+  <g filter="url(#glow)" transform="translate(8, 8)">
+    <!-- Back face of box -->
+    <path d="M28 12 L52 4 L52 52 L28 60 Z" stroke="url(#boxGrad)" stroke-width="1.5" fill="none" opacity="0.4"/>
+    <!-- Book pages inside box -->
+    <line x1="34" y1="14" x2="34" y2="56" stroke="#00d4ff" stroke-width="0.8" opacity="0.3"/>
+    <line x1="38" y1="12" x2="38" y2="54" stroke="#00d4ff" stroke-width="0.8" opacity="0.5"/>
+    <line x1="42" y1="10" x2="42" y2="52" stroke="#0099ff" stroke-width="0.8" opacity="0.6"/>
+    <!-- Front face of box -->
+    <path d="M4 20 L28 12 L28 60 L4 68 Z" stroke="url(#boxGrad)" stroke-width="2" fill="rgba(0,153,255,0.05)"/>
+    <!-- Top face of box -->
+    <path d="M4 20 L28 12 L52 4 L28 12 Z" stroke="url(#boxGrad)" stroke-width="1.5" fill="none" opacity="0.6"/>
+    <!-- Spine highlight -->
+    <path d="M28 12 L28 60" stroke="#00d4ff" stroke-width="2.5" opacity="0.9"/>
+    <!-- Bottom edge -->
+    <path d="M4 68 L28 60 L52 52" stroke="url(#boxGrad)" stroke-width="1.5" fill="none" opacity="0.5"/>
+    <!-- Glowing dot accent -->
+    <circle cx="28" cy="12" r="2" fill="#00d4ff" opacity="0.8"/>
+  </g>
+
+  <!-- Text: "Box" -->
+  <g filter="url(#glow)">
+    <text x="78" y="54" font-family="'Inter', 'SF Pro Display', -apple-system, sans-serif" font-size="42" font-weight="800" letter-spacing="-1" fill="white">Box</text>
+  </g>
+  <!-- Text: "Blue" -->
+  <g filter="url(#softGlow)">
+    <text x="152" y="54" font-family="'Inter', 'SF Pro Display', -apple-system, sans-serif" font-size="42" font-weight="800" letter-spacing="-1" fill="url(#logoGrad)">Blue</text>
+  </g>
+  <!-- Text: "Book" -->
+  <g filter="url(#glow)">
+    <text x="243" y="54" font-family="'Inter', 'SF Pro Display', -apple-system, sans-serif" font-size="42" font-weight="800" letter-spacing="-1" fill="white">Book</text>
+  </g>
+
+  <!-- Subtle underline accent -->
+  <line x1="78" y1="62" x2="330" y2="62" stroke="url(#logoGrad)" stroke-width="1" opacity="0.3"/>
+</svg>

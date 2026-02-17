@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BoxBlueBook — The Definitive Cigar Box Encyclopedia</title>
+  <meta name="description" content="BoxBlueBook is the ultimate digital reference for cigar boxes, production data, and collector intelligence. Join the waitlist for early access.">
+  <meta name="theme-color" content="#0a0e1a">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="BoxBlueBook — The Definitive Cigar Box Encyclopedia">
+  <meta property="og:description" content="The ultimate digital reference for cigar boxes, production data, and collector intelligence.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://boxbluebook.com">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/styles.css">
+
+  <!-- Favicon (inline SVG data URI) -->
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect rx='12' width='64' height='64' fill='%230a0e1a'/><text x='50%25' y='56%25' dominant-baseline='middle' text-anchor='middle' font-size='36' fill='%2300d4ff'>B</text></svg>">
+</head>
+<body>
+
+  <!-- Background layers -->
+  <div class="bg-grid"></div>
+  <div class="bg-orbs">
+    <div class="bg-orb bg-orb--1"></div>
+    <div class="bg-orb bg-orb--2"></div>
+    <div class="bg-orb bg-orb--3"></div>
+  </div>
+  <canvas id="particles"></canvas>
+  <div class="scan-line"></div>
+
+  <!-- Page content -->
+  <div class="page-wrapper">
+
+    <!-- Top Bar -->
+    <header class="top-bar">
+      <span class="top-bar__badge">Coming Soon</span>
+      <span class="top-bar__domain">boxbluebook.com</span>
+    </header>
+
+    <!-- Hero -->
+    <main class="hero">
+
+      <!-- SVG Logo (inline) -->
+      <div class="logo-container">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 80" fill="none" role="img" aria-label="BoxBlueBook logo">
+          <defs>
+            <linearGradient id="logoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" style="stop-color:#00d4ff"/>
+              <stop offset="50%" style="stop-color:#0099ff"/>
+              <stop offset="100%" style="stop-color:#7b2ff7"/>
+            </linearGradient>
+            <linearGradient id="boxGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" style="stop-color:#00d4ff"/>
+              <stop offset="100%" style="stop-color:#7b2ff7"/>
+            </linearGradient>
+            <filter id="glow">
+              <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+              <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+              </feMerge>
+            </filter>
+            <filter id="softGlow">
+              <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+              <feMerge>
+                <feMergeNode in="coloredBlur"/>
+                <feMergeNode in="SourceGraphic"/>
+              </feMerge>
+            </filter>
+          </defs>
+
+          <!-- Icon: 3D box with book pages -->
+          <g filter="url(#glow)" transform="translate(8, 8)">
+            <path d="M28 12 L52 4 L52 52 L28 60 Z" stroke="url(#boxGrad)" stroke-width="1.5" fill="none" opacity="0.4"/>
+            <line x1="34" y1="14" x2="34" y2="56" stroke="#00d4ff" stroke-width="0.8" opacity="0.3"/>
+            <line x1="38" y1="12" x2="38" y2="54" stroke="#00d4ff" stroke-width="0.8" opacity="0.5"/>
+            <line x1="42" y1="10" x2="42" y2="52" stroke="#0099ff" stroke-width="0.8" opacity="0.6"/>
+            <path d="M4 20 L28 12 L28 60 L4 68 Z" stroke="url(#boxGrad)" stroke-width="2" fill="rgba(0,153,255,0.05)"/>
+            <path d="M4 20 L28 12 L52 4 L28 12 Z" stroke="url(#boxGrad)" stroke-width="1.5" fill="none" opacity="0.6"/>
+            <path d="M28 12 L28 60" stroke="#00d4ff" stroke-width="2.5" opacity="0.9"/>
+            <path d="M4 68 L28 60 L52 52" stroke="url(#boxGrad)" stroke-width="1.5" fill="none" opacity="0.5"/>
+            <circle cx="28" cy="12" r="2" fill="#00d4ff" opacity="0.8"/>
+          </g>
+
+          <!-- Text -->
+          <g filter="url(#glow)">
+            <text x="78" y="54" font-family="'Inter', 'SF Pro Display', -apple-system, sans-serif" font-size="42" font-weight="800" letter-spacing="-1" fill="white">Box</text>
+          </g>
+          <g filter="url(#softGlow)">
+            <text x="152" y="54" font-family="'Inter', 'SF Pro Display', -apple-system, sans-serif" font-size="42" font-weight="800" letter-spacing="-1" fill="url(#logoGrad)">Blue</text>
+          </g>
+          <g filter="url(#glow)">
+            <text x="243" y="54" font-family="'Inter', 'SF Pro Display', -apple-system, sans-serif" font-size="42" font-weight="800" letter-spacing="-1" fill="white">Book</text>
+          </g>
+
+          <!-- Underline accent -->
+          <line x1="78" y1="62" x2="330" y2="62" stroke="url(#logoGrad)" stroke-width="1" opacity="0.3"/>
+        </svg>
+      </div>
+
+      <!-- Headline -->
+      <h1 class="hero__headline">
+        The Definitive<br><span class="gradient-text">Cigar Box Encyclopedia</span>
+      </h1>
+
+      <!-- Subheadline -->
+      <p class="hero__sub">
+        A comprehensive digital reference for cigar boxes, production&nbsp;data, market&nbsp;values, and collector intelligence. Built by enthusiasts, for&nbsp;enthusiasts.
+      </p>
+
+      <!-- Feature Pills -->
+      <div class="features">
+        <span class="feature-pill">
+          <span class="feature-pill__icon">&#x1F4E6;</span> Box Database
+        </span>
+        <span class="feature-pill">
+          <span class="feature-pill__icon">&#x1F50D;</span> Advanced Search
+        </span>
+        <span class="feature-pill">
+          <span class="feature-pill__icon">&#x1F4CA;</span> Market Data
+        </span>
+        <span class="feature-pill">
+          <span class="feature-pill__icon">&#x1F3AF;</span> Collector Tools
+        </span>
+      </div>
+
+      <!-- Email Capture -->
+      <section class="capture-section">
+        <div class="capture-card">
+          <h2 class="capture-card__title">Get Early Access</h2>
+          <p class="capture-card__desc">
+            Join the waitlist and be first to explore BoxBlueBook when we launch.
+          </p>
+
+          <!--
+            Campaign Monitor Form
+            =====================
+            Replace the action URL with your Campaign Monitor subscribe form URL.
+            Format: https://YOUR_ACCOUNT.createsend.com/t/r/s/YOUR_LIST_ID/
+            Replace "cm-YOUR_FIELD_ID" with your actual CM email field name.
+          -->
+          <form
+            id="signup-form"
+            class="signup-form"
+            action="#"
+            method="post"
+          >
+            <input
+              id="email-input"
+              class="signup-form__input"
+              type="email"
+              name="cm-YOUR_FIELD_ID"
+              placeholder="you@email.com"
+              required
+              autocomplete="email"
+              aria-label="Email address"
+            >
+            <button id="signup-btn" class="signup-form__btn" type="submit">
+              Notify Me
+            </button>
+          </form>
+
+          <div id="form-message" class="form-message form-message--hidden"></div>
+
+          <p class="privacy-note">
+            No spam, ever. Unsubscribe anytime.
+          </p>
+        </div>
+      </section>
+
+    </main>
+
+    <!-- Divider -->
+    <div class="section-divider"></div>
+
+    <!-- Info Cards -->
+    <section class="info-grid">
+      <div class="info-card">
+        <span class="info-card__icon">&#x1F4D6;</span>
+        <h3 class="info-card__title">Catalog</h3>
+        <p class="info-card__text">Thousands of cigar boxes documented with photos, dimensions, and production details.</p>
+      </div>
+      <div class="info-card">
+        <span class="info-card__icon">&#x1F4B0;</span>
+        <h3 class="info-card__title">Valuations</h3>
+        <p class="info-card__text">Real-time market data aggregated from auctions, dealers, and collector sales.</p>
+      </div>
+      <div class="info-card">
+        <span class="info-card__icon">&#x1F310;</span>
+        <h3 class="info-card__title">Community</h3>
+        <p class="info-card__text">Connect with collectors, share discoveries, and trade with verified members.</p>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p class="footer__text">
+        &copy; 2025 BoxBlueBook. All rights reserved.
+      </p>
+    </footer>
+
+  </div>
+
+  <!-- Scripts -->
+  <script src="js/main.js"></script>
+
+</body>
+</html>

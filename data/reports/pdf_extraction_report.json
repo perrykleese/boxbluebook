@@ -1,0 +1,169 @@
+{
+  "stats": {
+    "files_processed": 19,
+    "cigars_extracted": 1219,
+    "errors": [],
+    "needs_review": [
+      "Avanti Price list PCA 2025.pdf",
+      "God of Fire, Angelenos, and Sencillo US Retailer - 2024.pdf",
+      "TOSCANO PRICE LIST - 2025.pdf",
+      "AJ Fernandez.pdf",
+      "Fuente Aged Selection US Retailer Price List 4Q 2024.pdf",
+      "Firebird Order Form - 2024.pdf"
+    ]
+  },
+  "file_results": {
+    "Avanti Price list PCA 2025.pdf": {
+      "status": "needs_review",
+      "cigars_extracted": 0,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/avanti_price_list_pca_2025.json"
+    },
+    "Rojas Products 2025.pdf": {
+      "status": "no_data",
+      "cigars_extracted": 0,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/rojas_products_2025.json"
+    },
+    "God of Fire, Angelenos, and Sencillo US Retailer - 2024.pdf": {
+      "status": "needs_review",
+      "cigars_extracted": 0,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/god_of_fire,_angelenos,_and_sencillo_us_retailer_-_2024.json"
+    },
+    "Patina Price Sheet.pdf": {
+      "status": "success",
+      "cigars_extracted": 25,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/patina_price_sheet.json"
+    },
+    "Forged Cigar Co Standard Pricelist_AUG 2025.pdf": {
+      "status": "success",
+      "cigars_extracted": 64,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/forged_cigar_co_standard_pricelist_aug_2025.json"
+    },
+    "ADVentura Cigars_Pricelist_OrderForm_USA2024 (3).pdf": {
+      "status": "success",
+      "cigars_extracted": 29,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/adventura_cigars_pricelist_orderform_usa2024_(3).json"
+    },
+    "TOSCANO PRICE LIST - 2025.pdf": {
+      "status": "needs_review",
+      "cigars_extracted": 0,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/toscano_price_list_-_2025.json"
+    },
+    "AJ Fernandez.pdf": {
+      "status": "needs_review",
+      "cigars_extracted": 0,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/aj_fernandez.json"
+    },
+    "Fuente Aged Selection US Retailer Price List 4Q 2024.pdf": {
+      "status": "needs_review",
+      "cigars_extracted": 0,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/fuente_aged_selection_us_retailer_price_list_4q_2024.json"
+    },
+    "GCC Standard Pricelist - 2025.pdf": {
+      "status": "success",
+      "cigars_extracted": 73,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/gcc_standard_pricelist_-_2025.json"
+    },
+    "La Aurora 2025 Price List.pdf": {
+      "status": "no_data",
+      "cigars_extracted": 0,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/la_aurora_2025_price_list.json"
+    },
+    "Davidoff Price List.pdf": {
+      "status": "no_data",
+      "cigars_extracted": 0,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/davidoff_price_list.json"
+    },
+    "Oscar Valladares Price List - 2025.pdf": {
+      "status": "success",
+      "cigars_extracted": 88,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/oscar_valladares_price_list_-_2025.json"
+    },
+    "Rock Patel Pricing Packet - 2025.pdf": {
+      "status": "no_data",
+      "cigars_extracted": 0,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/rock_patel_pricing_packet_-_2025.json"
+    },
+    "El Septimo Cigar Wholesale USA - 2025.pdf": {
+      "status": "success",
+      "cigars_extracted": 8,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/el_septimo_cigar_wholesale_usa_-_2025.json"
+    },
+    "La Flor Dominicana Price List - 2025.pdf": {
+      "status": "success",
+      "cigars_extracted": 131,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/la_flor_dominicana_price_list_-_2025.json"
+    },
+    "DTT_2025 Order Forms & MAP  - 060325.pdf": {
+      "status": "success",
+      "cigars_extracted": 119,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/dtt_2025_order_forms_&_map__-_060325.json"
+    },
+    "Oliva Price Sheet - 2025.xlsx.pdf": {
+      "status": "success",
+      "cigars_extracted": 191,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/oliva_price_sheet_-_2025.xlsx.json"
+    },
+    "Dapper Price Sheet.pdf": {
+      "status": "no_data",
+      "cigars_extracted": 0,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/dapper_price_sheet.json"
+    },
+    "Miami Cigar Price List - MAR 2025.pdf": {
+      "status": "no_data",
+      "cigars_extracted": 0,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/miami_cigar_price_list_-_mar_2025.json"
+    },
+    "Ashton Cigar Wholesale Price List 2025 July.pdf": {
+      "status": "success",
+      "cigars_extracted": 155,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/ashton_cigar_wholesale_price_list_2025_july.json"
+    },
+    "BlackBird CORE LINE Price List January 2025 (1).pdf": {
+      "status": "success",
+      "cigars_extracted": 24,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/blackbird_core_line_price_list_january_2025_(1).json"
+    },
+    "My Father Price List 2025.pdf": {
+      "status": "success",
+      "cigars_extracted": 86,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/my_father_price_list_2025.json"
+    },
+    "Plasencia_Order_Form_V34_2_.pdf": {
+      "status": "success",
+      "cigars_extracted": 40,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/plasencia_order_form_v34_2_.json"
+    },
+    "Padron Price List - 2025.pdf": {
+      "status": "success",
+      "cigars_extracted": 22,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/padron_price_list_-_2025.json"
+    },
+    "Perdomo Cigars Price List - MAY 2025 - Back Sheet.pdf": {
+      "status": "success",
+      "cigars_extracted": 19,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/perdomo_cigars_price_list_-_may_2025_-_back_sheet.json"
+    },
+    "ESPINOSA PRICESHEET JUNE 2025 (1).pdf": {
+      "status": "success",
+      "cigars_extracted": 79,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/espinosa_pricesheet_june_2025_(1).json"
+    },
+    "Foundation Cigar Company Order Form 2025-.pdf": {
+      "status": "success",
+      "cigars_extracted": 46,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/foundation_cigar_company_order_form_2025-.json"
+    },
+    "BlackBird Value Cigars Price List Sept 2024.pdf": {
+      "status": "success",
+      "cigars_extracted": 18,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/blackbird_value_cigars_price_list_sept_2024.json"
+    },
+    "Firebird Order Form - 2024.pdf": {
+      "status": "needs_review",
+      "cigars_extracted": 2,
+      "output_file": "/Users/perrykleese/Projects/boxbluebook/data/extracted/pdf/firebird_order_form_-_2024.json"
+    }
+  },
+  "total_cigars": 1219,
+  "timestamp": "2026-02-05T00:19:03.783706"
+}
